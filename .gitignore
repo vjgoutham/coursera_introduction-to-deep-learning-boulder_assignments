@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+.DS_Store
+**/.DS_Store
+test/
+train/
+train_labels.csv
+sample_submission.csv
+models/
+history/
+kaggle.csv
